@@ -1,1 +1,2 @@
 # VideoAndProduct
+A project in which, by clicking on the "Commercial Break" button, a request is sent to the server, and a video is played on the screen using the received link. By clicking on the "Product View" button, a request is sent to the server and we receive a response about the product. In the field that appears, you can enter your data and buy the product.
